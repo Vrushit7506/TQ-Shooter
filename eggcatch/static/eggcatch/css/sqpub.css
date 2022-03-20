@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+*{
+  font-family: 'Lora', serif;
+}
+
+body {
+  background-color: black !important;
+  background: url('../img/gateflex\ bg.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 100%;
+  padding: 0px 10px;
+}
+
+.no-padding {
+  padding: 0px;
+}
+
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+
+.navbar-wrapper>.container {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.navbar-wrapper .navbar .container {
+  width: auto;
+}
+
+.main {
+  margin-top: 100px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 30px;
+  background-color: rgba(255,255,255,0.8);
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+@media (min-width: 768px) {
+  .navbar-wrapper {
+    margin-top: 20px;
+  }
+
+  .navbar-wrapper .navbar {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+  .main {
+    margin-top: 140px;
+  }
+}
