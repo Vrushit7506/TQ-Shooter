@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% load static %}
 
-{% block title %} &#129370; {{ egg.name }} {% endblock %}
+{% block title %} 🔫 QR Shooter - {{ egg.name }} {% endblock %}
 
 {% block content %}
 
@@ -72,8 +72,8 @@
   {% for c in catches %}
   <tr>
     <td>{{c.date}}</td>
-    <td><a href="/egg/{{ c.egg.id }}">{{ c.egg.name }}</a></td>
-    <td><a href="/player/{{ c.player.id }}">{{ c.player.name }}</a></td>
+    <td><a href="/egg/{{ c.egg.id }}/">{{ c.egg.name }}</a></td>
+    <td><a href="/player/{{ c.player.id }}/">{{ c.player.name }}</a></td>
   </tr>
   {% endfor %}
 </table>
