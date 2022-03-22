@@ -1,0 +1,1597 @@
+App 3177 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3177 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3177 output: Traceback (most recent call last):
+App 3177 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 3177 output:     
+App 3177 output: app_module = load_app()
+App 3177 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 3177 output:     
+App 3177 output: return imp.load_source('passenger_wsgi', startup_file)
+App 3177 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 3177 output:     
+App 3177 output: module = _load(spec)
+App 3177 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 3177 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 3177 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 3177 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 3177 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 3177 output:     
+App 3177 output: sys.path.insert(0, os.path.dirname(file))
+App 3177 output: NameError
+App 3177 output: : 
+App 3177 output: name 'file' is not defined
+App 3282 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3282 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3282 output: Traceback (most recent call last):
+App 3282 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 3282 output:     
+App 3282 output: app_module = load_app()
+App 3282 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 3282 output:     
+App 3282 output: return imp.load_source('passenger_wsgi', startup_file)
+App 3282 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 3282 output:     
+App 3282 output: module = _load(spec)
+App 3282 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 3282 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 3282 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 3282 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 3282 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 3282 output:     
+App 3282 output: sys.path.insert(0, os.path.dirname(file))
+App 3282 output: NameError
+App 3282 output: : 
+App 3282 output: name 'file' is not defined
+App 3631 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3631 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3631 output: Traceback (most recent call last):
+App 3631 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 3631 output:     app_module = load_app()
+App 3631 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 3631 output:     
+App 3631 output: return imp.load_source('passenger_wsgi', startup_file)
+App 3631 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 3631 output:     module = _load(spec)
+App 3631 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 3631 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 3631 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 3631 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 3631 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 3631 output:     sys.path.insert(0, os.path.dirname(file))
+App 3631 output: NameError: name 'file' is not defined
+App 3748 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3748 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3748 output: Traceback (most recent call last):
+App 3748 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 3748 output:     app_module = load_app()
+App 3748 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 3748 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 3748 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 3748 output:     
+App 3748 output: module = _load(spec)
+App 3748 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 3748 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 3748 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 3748 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 3748 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 3748 output:     
+App 3748 output: sys.path.insert(0, os.path.dirname(file))
+App 3748 output: NameError: name 'file' is not defined
+App 3872 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3872 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3872 output: Traceback (most recent call last):
+App 3872 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 3872 output:     
+App 3872 output: app_module = load_app()
+App 3872 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 3872 output:     
+App 3872 output: return imp.load_source('passenger_wsgi', startup_file)
+App 3872 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 3872 output:     
+App 3872 output: module = _load(spec)
+App 3872 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 3872 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 3872 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 3872 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 3872 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 3872 output:     
+App 3872 output: sys.path.insert(0, os.path.dirname(file))
+App 3872 output: NameError
+App 3872 output: : 
+App 3872 output: name 'file' is not defined
+App 7500 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 7500 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 7500 output: Traceback (most recent call last):
+App 7500 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 7500 output:     
+App 7500 output: app_module = load_app()
+App 7500 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 7500 output:     
+App 7500 output: return imp.load_source('passenger_wsgi', startup_file)
+App 7500 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 7500 output:     
+App 7500 output: module = _load(spec)
+App 7500 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 7500 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 7500 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 7500 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 7500 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 7500 output:     
+App 7500 output: sys.path.insert(0, os.path.dirname(file))
+App 7500 output: NameError
+App 7500 output: : 
+App 7500 output: name 'file' is not defined
+App 7603 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 7603 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 7603 output: Traceback (most recent call last):
+App 7603 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 7603 output:     
+App 7603 output: app_module = load_app()
+App 7603 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 7603 output:     
+App 7603 output: return imp.load_source('passenger_wsgi', startup_file)
+App 7603 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 7603 output:     module = _load(spec)
+App 7603 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 7603 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 7603 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 7603 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 7603 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 7603 output:     sys.path.insert(0, os.path.dirname(file))
+App 7603 output: NameError: name 'file' is not defined
+App 7797 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 7797 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 7797 output: Traceback (most recent call last):
+App 7797 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 7797 output:     
+App 7797 output: app_module = load_app()
+App 7797 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 7797 output:     
+App 7797 output: return imp.load_source('passenger_wsgi', startup_file)
+App 7797 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 7797 output:     
+App 7797 output: module = _load(spec)
+App 7797 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 7797 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 7797 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 7797 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 7797 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 7797 output:     
+App 7797 output: sys.path.insert(0, os.path.dirname(file))
+App 7797 output: NameError
+App 7797 output: : 
+App 7797 output: name 'file' is not defined
+App 8543 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 8543 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 8543 output: Traceback (most recent call last):
+App 8543 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 8543 output:     app_module = load_app()
+App 8543 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 8543 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 8543 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 8543 output:     module = _load(spec)
+App 8543 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 8543 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 8543 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 8543 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 8543 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 8543 output:     sys.path.insert(0, os.path.dirname(file))
+App 8543 output: NameError: name 'file' is not defined
+App 8692 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 8692 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 8692 output: Traceback (most recent call last):
+App 8692 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 8692 output:     
+App 8692 output: app_module = load_app()
+App 8692 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 8692 output:     
+App 8692 output: return imp.load_source('passenger_wsgi', startup_file)
+App 8692 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 8692 output:     
+App 8692 output: module = _load(spec)
+App 8692 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 8692 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 8692 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 8692 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 8692 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 8692 output:     
+App 8692 output: sys.path.insert(0, os.path.dirname(file))
+App 8692 output: NameError
+App 8692 output: : 
+App 8692 output: name 'file' is not defined
+App 22754 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 22754 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 22754 output: Traceback (most recent call last):
+App 22754 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 22754 output:     app_module = load_app()
+App 22754 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 22754 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 22754 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 22754 output:     module = _load(spec)
+App 22754 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 22754 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 22754 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 22754 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 22754 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 22754 output:     sys.path.insert(0, os.path.dirname(file))
+App 22754 output: NameError: name 'file' is not defined
+App 22971 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 22971 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 22971 output: Traceback (most recent call last):
+App 22971 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 22971 output:     app_module = load_app()
+App 22971 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 22971 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 22971 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 22971 output:     module = _load(spec)
+App 22971 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 22971 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 22971 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 22971 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 22971 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 22971 output:     sys.path.insert(0, os.path.dirname(file))
+App 22971 output: NameError: name 'file' is not defined
+App 23348 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 23348 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 23348 output: Traceback (most recent call last):
+App 23348 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 23348 output:     app_module = load_app()
+App 23348 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 23348 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 23348 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 23348 output:     module = _load(spec)
+App 23348 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 23348 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 23348 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 23348 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 23348 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 23348 output:     sys.path.insert(0, os.path.dirname(file))
+App 23348 output: NameError: name 'file' is not defined
+App 23543 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 23543 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 23543 output: Traceback (most recent call last):
+App 23543 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 23543 output:     
+App 23543 output: app_module = load_app()
+App 23543 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 23543 output:     
+App 23543 output: return imp.load_source('passenger_wsgi', startup_file)
+App 23543 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 23543 output:     
+App 23543 output: module = _load(spec)
+App 23543 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 23543 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 23543 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 23543 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 23543 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 23543 output:     
+App 23543 output: sys.path.insert(0, os.path.dirname(file))
+App 23543 output: NameError
+App 23543 output: : 
+App 23543 output: name 'file' is not defined
+App 13305 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 13305 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 13305 output: Traceback (most recent call last):
+App 13305 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 13305 output:     
+App 13305 output: app_module = load_app()
+App 13305 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 13305 output:     
+App 13305 output: return imp.load_source('passenger_wsgi', startup_file)
+App 13305 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 13305 output:     
+App 13305 output: module = _load(spec)
+App 13305 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 13305 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 13305 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 13305 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 13305 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 13305 output:     
+App 13305 output: sys.path.insert(0, os.path.dirname(file))
+App 13305 output: NameError
+App 13305 output: : 
+App 13305 output: name 'file' is not defined
+App 13536 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 13536 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 13536 output: Traceback (most recent call last):
+App 13536 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 13536 output:     app_module = load_app()
+App 13536 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 13536 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 13536 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 13536 output:     
+App 13536 output: module = _load(spec)
+App 13536 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 13536 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 13536 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 13536 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 13536 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 13536 output:     sys.path.insert(0, os.path.dirname(file))
+App 13536 output: NameError: name 'file' is not defined
+App 30777 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 30777 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 30777 output: Traceback (most recent call last):
+App 30777 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 30777 output:     
+App 30777 output: app_module = load_app()
+App 30777 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 30777 output:     
+App 30777 output: return imp.load_source('passenger_wsgi', startup_file)
+App 30777 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 30777 output:     
+App 30777 output: module = _load(spec)
+App 30777 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 30777 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 30777 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 30777 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 30777 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 30777 output:     
+App 30777 output: sys.path.insert(0, os.path.dirname(file))
+App 30777 output: NameError
+App 30777 output: : 
+App 30777 output: name 'file' is not defined
+App 14769 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 14769 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 14769 output: Traceback (most recent call last):
+App 14769 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 14769 output:     app_module = load_app()
+App 14769 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 14769 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 14769 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 14769 output:     
+App 14769 output: module = _load(spec)
+App 14769 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 14769 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 14769 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 14769 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 14769 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 14769 output:     sys.path.insert(0, os.path.dirname(file))
+App 14769 output: NameError: name 'file' is not defined
+App 24543 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 24543 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 24543 output: Traceback (most recent call last):
+App 24543 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 24543 output:     
+App 24543 output: app_module = load_app()
+App 24543 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 24543 output:     
+App 24543 output: return imp.load_source('passenger_wsgi', startup_file)
+App 24543 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 24543 output:     
+App 24543 output: module = _load(spec)
+App 24543 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 24543 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 24543 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 24543 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 24543 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 24543 output:     
+App 24543 output: sys.path.insert(0, os.path.dirname(file))
+App 24543 output: NameError
+App 24543 output: : 
+App 24543 output: name 'file' is not defined
+App 24859 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 24859 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 24859 output: Traceback (most recent call last):
+App 24859 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 24859 output:     
+App 24859 output: app_module = load_app()
+App 24859 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 24859 output:     
+App 24859 output: return imp.load_source('passenger_wsgi', startup_file)
+App 24859 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 24859 output:     
+App 24859 output: module = _load(spec)
+App 24859 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 24859 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 24859 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 24859 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 24859 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 24859 output:     
+App 24859 output: sys.path.insert(0, os.path.dirname(file))
+App 24859 output: NameError
+App 24859 output: : 
+App 24859 output: name 'file' is not defined
+App 20494 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 20494 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 20494 output: Traceback (most recent call last):
+App 20494 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 20494 output:     
+App 20494 output: app_module = load_app()
+App 20494 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 20494 output:     
+App 20494 output: return imp.load_source('passenger_wsgi', startup_file)
+App 20494 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 20494 output:     
+App 20494 output: module = _load(spec)
+App 20494 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 20494 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 20494 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 20494 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 20494 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 20494 output:     
+App 20494 output: sys.path.insert(0, os.path.dirname(file))
+App 20494 output: NameError
+App 20494 output: : 
+App 20494 output: name 'file' is not defined
+App 20726 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 20726 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 20726 output: Traceback (most recent call last):
+App 20726 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 20726 output:     
+App 20726 output: app_module = load_app()
+App 20726 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 20726 output:     
+App 20726 output: return imp.load_source('passenger_wsgi', startup_file)
+App 20726 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 20726 output:     
+App 20726 output: module = _load(spec)
+App 20726 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 20726 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 20726 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 20726 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 20726 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 20726 output:     
+App 20726 output: sys.path.insert(0, os.path.dirname(file))
+App 20726 output: NameError
+App 20726 output: : 
+App 20726 output: name 'file' is not defined
+App 6180 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 6180 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 6180 output: Traceback (most recent call last):
+App 6180 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 6180 output:     
+App 6180 output: app_module = load_app()
+App 6180 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 6180 output:     
+App 6180 output: return imp.load_source('passenger_wsgi', startup_file)
+App 6180 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 6180 output:     
+App 6180 output: module = _load(spec)
+App 6180 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 6180 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 6180 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 6180 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 6180 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 6180 output:     
+App 6180 output: sys.path.insert(0, os.path.dirname(file))
+App 6180 output: NameError
+App 6180 output: : 
+App 6180 output: name 'file' is not defined
+App 6374 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 6374 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 6374 output: Traceback (most recent call last):
+App 6374 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 6374 output:     
+App 6374 output: app_module = load_app()
+App 6374 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 6374 output:     
+App 6374 output: return imp.load_source('passenger_wsgi', startup_file)
+App 6374 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 6374 output:     
+App 6374 output: module = _load(spec)
+App 6374 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 6374 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 6374 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 6374 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 6374 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 6374 output:     
+App 6374 output: sys.path.insert(0, os.path.dirname(file))
+App 6374 output: NameError
+App 6374 output: : 
+App 6374 output: name 'file' is not defined
+App 6500 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 6500 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 6500 output: Traceback (most recent call last):
+App 6500 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 6500 output:     app_module = load_app()
+App 6500 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 6500 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 6500 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 6500 output:     module = _load(spec)
+App 6500 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 6500 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 6500 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 6500 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 6500 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 6500 output:     sys.path.insert(0, os.path.dirname(file))
+App 6500 output: NameError: name 'file' is not defined
+App 11464 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 11464 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 11464 output: Traceback (most recent call last):
+App 11464 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 11464 output:     app_module = load_app()
+App 11464 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 11464 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 11464 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 11464 output:     module = _load(spec)
+App 11464 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 11464 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 11464 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 11464 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 11464 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 11464 output:     sys.path.insert(0, os.path.dirname(file))
+App 11464 output: NameError: name 'file' is not defined
+App 11696 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 11696 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 11696 output: Traceback (most recent call last):
+App 11696 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 11696 output:     
+App 11696 output: app_module = load_app()
+App 11696 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 11696 output:     
+App 11696 output: return imp.load_source('passenger_wsgi', startup_file)
+App 11696 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 11696 output:     
+App 11696 output: module = _load(spec)
+App 11696 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 11696 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 11696 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 11696 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 11696 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 11696 output:     
+App 11696 output: sys.path.insert(0, os.path.dirname(file))
+App 11696 output: NameError
+App 11696 output: : 
+App 11696 output: name 'file' is not defined
+App 26116 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 26116 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 26116 output: Traceback (most recent call last):
+App 26116 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 26116 output:     
+App 26116 output: app_module = load_app()
+App 26116 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 26116 output:     
+App 26116 output: return imp.load_source('passenger_wsgi', startup_file)
+App 26116 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 26116 output:     
+App 26116 output: module = _load(spec)
+App 26116 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 26116 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 26116 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 26116 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 26116 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 26116 output:     
+App 26116 output: sys.path.insert(0, os.path.dirname(file))
+App 26116 output: NameError
+App 26116 output: : 
+App 26116 output: name 'file' is not defined
+App 26344 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 26344 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 26344 output: Traceback (most recent call last):
+App 26344 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 26344 output:     app_module = load_app()
+App 26344 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 26344 output:     
+App 26344 output: return imp.load_source('passenger_wsgi', startup_file)
+App 26344 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 26344 output:     module = _load(spec)
+App 26344 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 26344 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 26344 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 26344 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 26344 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 26344 output:     sys.path.insert(0, os.path.dirname(file))
+App 26344 output: NameError: 
+App 26344 output: name 'file' is not defined
+App 7395 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 7395 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 7395 output: Traceback (most recent call last):
+App 7395 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 7395 output:     
+App 7395 output: app_module = load_app()
+App 7395 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 7395 output:     
+App 7395 output: return imp.load_source('passenger_wsgi', startup_file)
+App 7395 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 7395 output:     
+App 7395 output: module = _load(spec)
+App 7395 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 7395 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 7395 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 7395 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 7395 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 7395 output:     
+App 7395 output: sys.path.insert(0, os.path.dirname(file))
+App 7395 output: NameError
+App 7395 output: : 
+App 7395 output: name 'file' is not defined
+App 7531 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 7531 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 7531 output: Traceback (most recent call last):
+App 7531 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 7531 output:     
+App 7531 output: app_module = load_app()
+App 7531 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 7531 output:     
+App 7531 output: return imp.load_source('passenger_wsgi', startup_file)
+App 7531 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 7531 output:     
+App 7531 output: module = _load(spec)
+App 7531 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 7531 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 7531 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 7531 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 7531 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 7531 output:     
+App 7531 output: sys.path.insert(0, os.path.dirname(file))
+App 7531 output: NameError
+App 7531 output: : 
+App 7531 output: name 'file' is not defined
+App 20687 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 20687 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 20687 output: Traceback (most recent call last):
+App 20687 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 20687 output:     app_module = load_app()
+App 20687 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 20687 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 20687 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 20687 output:     
+App 20687 output: module = _load(spec)
+App 20687 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 20687 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 20687 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 20687 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 20687 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 20687 output:     sys.path.insert(0, os.path.dirname(file))
+App 20687 output: NameError: name 'file' is not defined
+App 21097 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 21097 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 21097 output: Traceback (most recent call last):
+App 21097 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 21097 output:     app_module = load_app()
+App 21097 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 21097 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 21097 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 21097 output:     module = _load(spec)
+App 21097 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 21097 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 21097 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 21097 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 21097 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 21097 output:     sys.path.insert(0, os.path.dirname(file))
+App 21097 output: NameError: name 'file' is not defined
+App 21469 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 21469 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 21469 output: Traceback (most recent call last):
+App 21469 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 21469 output:     app_module = load_app()
+App 21469 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 21469 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 21469 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 21469 output:     module = _load(spec)
+App 21469 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 21469 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 21469 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 21469 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 21469 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 21469 output:     sys.path.insert(0, os.path.dirname(file))
+App 21469 output: NameError: name 'file' is not defined
+App 24334 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 24334 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 24334 output: Traceback (most recent call last):
+App 24334 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 24334 output:     app_module = load_app()
+App 24334 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 24334 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 24334 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 24334 output:     
+App 24334 output: module = _load(spec)
+App 24334 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 24334 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 24334 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 24334 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 24334 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 24334 output:     sys.path.insert(0, os.path.dirname(file))
+App 24334 output: NameError: name 'file' is not defined
+App 30533 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 30533 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 30533 output: Traceback (most recent call last):
+App 30533 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 30533 output:     
+App 30533 output: app_module = load_app()
+App 30533 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 30533 output:     
+App 30533 output: return imp.load_source('passenger_wsgi', startup_file)
+App 30533 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 30533 output:     
+App 30533 output: module = _load(spec)
+App 30533 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 30533 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 30533 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 30533 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 30533 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 30533 output:     
+App 30533 output: sys.path.insert(0, os.path.dirname(file))
+App 30533 output: NameError
+App 30533 output: : 
+App 30533 output: name 'file' is not defined
+App 31546 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 31546 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 31546 output: Traceback (most recent call last):
+App 31546 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 31546 output:     app_module = load_app()
+App 31546 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 31546 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 31546 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 31546 output:     module = _load(spec)
+App 31546 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 31546 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 31546 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 31546 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 31546 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 31546 output:     sys.path.insert(0, os.path.dirname(file))
+App 31546 output: NameError: name 'file' is not defined
+App 31866 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 31866 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 31866 output: Traceback (most recent call last):
+App 31866 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 31866 output:     app_module = load_app()
+App 31866 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 31866 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 31866 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 31866 output:     module = _load(spec)
+App 31866 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 31866 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 31866 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 31866 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 31866 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 31866 output:     sys.path.insert(0, os.path.dirname(file))
+App 31866 output: NameError: name 'file' is not defined
+App 4661 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 4661 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 4661 output: Traceback (most recent call last):
+App 4661 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 4661 output:     
+App 4661 output: app_module = load_app()
+App 4661 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 4661 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 4661 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 4661 output:     
+App 4661 output: module = _load(spec)
+App 4661 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 4661 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 4661 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 4661 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 4661 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 4661 output:     
+App 4661 output: sys.path.insert(0, os.path.dirname(file))
+App 4661 output: NameError: name 'file' is not defined
+App 4812 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 4812 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 4812 output: Traceback (most recent call last):
+App 4812 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 4812 output:     app_module = load_app()
+App 4812 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 4812 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 4812 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 4812 output:     module = _load(spec)
+App 4812 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 4812 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 4812 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 4812 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 4812 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 4812 output:     sys.path.insert(0, os.path.dirname(file))
+App 4812 output: NameError: name 'file' is not defined
+App 7904 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 7904 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 7904 output: Traceback (most recent call last):
+App 7904 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 7904 output:     app_module = load_app()
+App 7904 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 7904 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 7904 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 7904 output:     module = _load(spec)
+App 7904 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 7904 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 7904 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 7904 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 7904 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 7904 output:     sys.path.insert(0, os.path.dirname(file))
+App 7904 output: NameError: name 'file' is not defined
+App 8054 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 8054 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 8054 output: Traceback (most recent call last):
+App 8054 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 8054 output:     
+App 8054 output: app_module = load_app()
+App 8054 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 8054 output:     
+App 8054 output: return imp.load_source('passenger_wsgi', startup_file)
+App 8054 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 8054 output:     
+App 8054 output: module = _load(spec)
+App 8054 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 8054 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 8054 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 8054 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 8054 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 8054 output:     
+App 8054 output: sys.path.insert(0, os.path.dirname(file))
+App 8054 output: NameError
+App 8054 output: : 
+App 8054 output: name 'file' is not defined
+App 8173 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 8173 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 8173 output: Traceback (most recent call last):
+App 8173 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 8173 output:     app_module = load_app()
+App 8173 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 8173 output:     
+App 8173 output: return imp.load_source('passenger_wsgi', startup_file)
+App 8173 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 8173 output:     module = _load(spec)
+App 8173 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 8173 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 8173 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 8173 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 8173 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 8173 output:     
+App 8173 output: sys.path.insert(0, os.path.dirname(file))
+App 8173 output: NameError: name 'file' is not defined
+App 8498 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 8498 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 8498 output: Traceback (most recent call last):
+App 8498 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 8498 output:     app_module = load_app()
+App 8498 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 8498 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 8498 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 8498 output:     module = _load(spec)
+App 8498 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 8498 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 8498 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 8498 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 8498 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 8498 output:     sys.path.insert(0, os.path.dirname(file))
+App 8498 output: NameError: name 'file' is not defined
+App 8608 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 8608 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 8608 output: Traceback (most recent call last):
+App 8608 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 8608 output:     
+App 8608 output: app_module = load_app()
+App 8608 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 8608 output:     
+App 8608 output: return imp.load_source('passenger_wsgi', startup_file)
+App 8608 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 8608 output:     
+App 8608 output: module = _load(spec)
+App 8608 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 8608 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 8608 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 8608 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 8608 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 8608 output:     
+App 8608 output: sys.path.insert(0, os.path.dirname(file))
+App 8608 output: NameError
+App 8608 output: : 
+App 8608 output: name 'file' is not defined
+App 9370 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 9370 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 9370 output: Traceback (most recent call last):
+App 9370 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 9370 output:     
+App 9370 output: app_module = load_app()
+App 9370 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 9370 output:     
+App 9370 output: return imp.load_source('passenger_wsgi', startup_file)
+App 9370 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 9370 output:     
+App 9370 output: module = _load(spec)
+App 9370 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 9370 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 9370 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 9370 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 9370 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 9370 output:     
+App 9370 output: sys.path.insert(0, os.path.dirname(file))
+App 9370 output: NameError
+App 9370 output: : 
+App 9370 output: name 'file' is not defined
+App 9495 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 9495 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 9495 output: Traceback (most recent call last):
+App 9495 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 9495 output:     
+App 9495 output: app_module = load_app()
+App 9495 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 9495 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 9495 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 9495 output:     module = _load(spec)
+App 9495 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 9495 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 9495 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 9495 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 9495 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 9495 output:     sys.path.insert(0, os.path.dirname(file))
+App 9495 output: NameError: name 'file' is not defined
+App 10835 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 10835 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 10835 output: Traceback (most recent call last):
+App 10835 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 10835 output:     app_module = load_app()
+App 10835 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 10835 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 10835 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 10835 output:     module = _load(spec)
+App 10835 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 10835 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 10835 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 10835 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 10835 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 10835 output:     sys.path.insert(0, os.path.dirname(file))
+App 10835 output: NameError: name 'file' is not defined
+App 11020 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 11020 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 11020 output: Traceback (most recent call last):
+App 11020 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 11020 output:     app_module = load_app()
+App 11020 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 11020 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 11020 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 11020 output:     module = _load(spec)
+App 11020 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 11020 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 11020 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 11020 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 11020 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 11020 output:     sys.path.insert(0, os.path.dirname(file))
+App 11020 output: NameError: name 'file' is not defined
+App 11177 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 11177 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 11177 output: Traceback (most recent call last):
+App 11177 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 11177 output:     app_module = load_app()
+App 11177 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 11177 output:     
+App 11177 output: return imp.load_source('passenger_wsgi', startup_file)
+App 11177 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 11177 output:     
+App 11177 output: module = _load(spec)
+App 11177 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 11177 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 11177 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 11177 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 11177 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 11177 output:     
+App 11177 output: sys.path.insert(0, os.path.dirname(file))
+App 11177 output: NameError: name 'file' is not defined
+App 11322 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 11322 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 11322 output: Traceback (most recent call last):
+App 11322 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 11322 output:     app_module = load_app()
+App 11322 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 11322 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 11322 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 11322 output:     module = _load(spec)
+App 11322 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 11322 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 11322 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 11322 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 11322 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 11322 output:     sys.path.insert(0, os.path.dirname(file))
+App 11322 output: NameError: name 'file' is not defined
+App 11535 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 11535 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 11535 output: Traceback (most recent call last):
+App 11535 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 11535 output:     
+App 11535 output: app_module = load_app()
+App 11535 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 11535 output:     
+App 11535 output: return imp.load_source('passenger_wsgi', startup_file)
+App 11535 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 11535 output:     
+App 11535 output: module = _load(spec)
+App 11535 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 11535 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 11535 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 11535 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 11535 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 11535 output:     
+App 11535 output: sys.path.insert(0, os.path.dirname(file))
+App 11535 output: NameError
+App 11535 output: : 
+App 11535 output: name 'file' is not defined
+App 11774 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 11774 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 11774 output: Traceback (most recent call last):
+App 11774 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 11774 output:     
+App 11774 output: app_module = load_app()
+App 11774 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 11774 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 11774 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 11774 output:     module = _load(spec)
+App 11774 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 11774 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 11774 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 11774 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 11774 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 11774 output:     sys.path.insert(0, os.path.dirname(file))
+App 11774 output: NameError: name 'file' is not defined
+App 12091 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 12091 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 12091 output: Traceback (most recent call last):
+App 12091 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 12091 output:     
+App 12091 output: app_module = load_app()
+App 12091 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 12091 output:     
+App 12091 output: return imp.load_source('passenger_wsgi', startup_file)
+App 12091 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 12091 output:     
+App 12091 output: module = _load(spec)
+App 12091 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 12091 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 12091 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 12091 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 12091 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 12091 output:     
+App 12091 output: sys.path.insert(0, os.path.dirname(file))
+App 12091 output: NameError
+App 12091 output: : 
+App 12091 output: name 'file' is not defined
+App 12268 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 12268 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 12268 output: Traceback (most recent call last):
+App 12268 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 12268 output:     app_module = load_app()
+App 12268 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 12268 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 12268 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 12268 output:     module = _load(spec)
+App 12268 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 12268 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 12268 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 12268 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 12268 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 12268 output:     sys.path.insert(0, os.path.dirname(file))
+App 12268 output: NameError: name 'file' is not defined
+App 3645 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3645 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3645 output: Traceback (most recent call last):
+App 3645 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 3645 output:     
+App 3645 output: app_module = load_app()
+App 3645 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 3645 output:     
+App 3645 output: return imp.load_source('passenger_wsgi', startup_file)
+App 3645 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 3645 output:     
+App 3645 output: module = _load(spec)
+App 3645 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 3645 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 3645 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 3645 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 3645 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 3645 output:     
+App 3645 output: sys.path.insert(0, os.path.dirname(file))
+App 3645 output: NameError
+App 3645 output: : 
+App 3645 output: name 'file' is not defined
+App 3966 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3966 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3966 output: Traceback (most recent call last):
+App 3966 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 3966 output:     app_module = load_app()
+App 3966 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 3966 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 3966 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 3966 output:     module = _load(spec)
+App 3966 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 3966 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 3966 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 3966 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 3966 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 3966 output:     sys.path.insert(0, os.path.dirname(file))
+App 3966 output: NameError: name 'file' is not defined
+App 7160 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 7160 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 7160 output: Traceback (most recent call last):
+App 7160 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 7160 output:     
+App 7160 output: app_module = load_app()
+App 7160 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 7160 output:     
+App 7160 output: return imp.load_source('passenger_wsgi', startup_file)
+App 7160 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 7160 output:     
+App 7160 output: module = _load(spec)
+App 7160 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 7160 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 7160 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 7160 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 7160 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 7160 output:     sys.path.insert(0, os.path.dirname(file))
+App 7160 output: NameError: name 'file' is not defined
+App 7293 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 7293 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 7293 output: Traceback (most recent call last):
+App 7293 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 7293 output:     app_module = load_app()
+App 7293 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 7293 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 7293 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 7293 output:     module = _load(spec)
+App 7293 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 7293 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 7293 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 7293 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 7293 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 7293 output:     sys.path.insert(0, os.path.dirname(file))
+App 7293 output: NameError: name 'file' is not defined
+App 7486 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 7486 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 7486 output: Traceback (most recent call last):
+App 7486 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 7486 output:     app_module = load_app()
+App 7486 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 7486 output:     
+App 7486 output: return imp.load_source('passenger_wsgi', startup_file)
+App 7486 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 7486 output:     
+App 7486 output: module = _load(spec)
+App 7486 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 7486 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 7486 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 7486 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 7486 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 7486 output:     
+App 7486 output: sys.path.insert(0, os.path.dirname(file))
+App 7486 output: NameError
+App 7486 output: : 
+App 7486 output: name 'file' is not defined
+App 15325 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 15325 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 15325 output: Traceback (most recent call last):
+App 15325 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 15325 output:     app_module = load_app()
+App 15325 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 15325 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 15325 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 15325 output:     module = _load(spec)
+App 15325 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 15325 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 15325 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 15325 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 15325 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 15325 output:     sys.path.insert(0, os.path.dirname(file))
+App 15325 output: NameError: name 'file' is not defined
+App 15587 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 15587 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 15587 output: Traceback (most recent call last):
+App 15587 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 15587 output:     
+App 15587 output: app_module = load_app()
+App 15587 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 15587 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 15587 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/lib64/python3.7/imp.py", line 171, in load_source
+App 15587 output:     module = _load(spec)
+App 15587 output:   File "<frozen importlib._bootstrap>", line 696, in _load
+App 15587 output:   File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+App 15587 output:   File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+App 15587 output:   File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+App 15587 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 6, in <module>
+App 15587 output:     sys.path.insert(0, os.path.dirname(file))
+App 15587 output: NameError: name 'file' is not defined
+App 18763 output: /bin/sh: /home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/bin/python: No such file or directory
+App 18862 output: /bin/sh: /home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/bin/python: No such file or directory
+App 4924 output: /bin/sh: /home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/bin/python: No such file or directory
+App 5117 output: /bin/sh: /home/tqshoote/virtualenv/repositories/TQ-Shooter/3.7/bin/python: No such file or directory
+App 26114 output: Traceback (most recent call last):
+App 26114 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 26114 output:     app_module = load_app()
+App 26114 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 26114 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 26114 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 20, in <module>
+App 26114 output:     from sqpub.wsgi import application
+App 26114 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 26114 output:     application = get_wsgi_application()
+App 26114 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 26114 output:     django.setup(set_prefix=False)
+App 26114 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 26114 output:     apps.populate(settings.INSTALLED_APPS)
+App 26114 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 26114 output:     app_config.import_models()
+App 26114 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 26114 output:     self.models_module = import_module(models_module_name)
+App 26114 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 26114 output:     __import__(name)
+App 26114 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 26114 output:     from PIL import Image
+App 26114 output: ImportError: No module named PIL
+App 26639 output: Traceback (most recent call last):
+App 26639 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 26639 output:     app_module = load_app()
+App 26639 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 26639 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 26639 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 20, in <module>
+App 26639 output:     from sqpub.wsgi import application
+App 26639 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 26639 output:     application = get_wsgi_application()
+App 26639 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 26639 output:     django.setup(set_prefix=False)
+App 26639 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 26639 output:     apps.populate(settings.INSTALLED_APPS)
+App 26639 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 26639 output:     app_config.import_models()
+App 26639 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 26639 output:     self.models_module = import_module(models_module_name)
+App 26639 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 26639 output:     __import__(name)
+App 26639 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 26639 output:     from PIL import Image
+App 26639 output: ImportError: 
+App 26639 output: No module named PIL
+App 23503 output: Traceback (most recent call last):
+App 23503 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 23503 output:     
+App 23503 output: app_module = load_app()
+App 23503 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 23503 output:     
+App 23503 output: return imp.load_source('passenger_wsgi', startup_file)
+App 23503 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 20, in <module>
+App 23503 output:     
+App 23503 output: from sqpub.wsgi import application
+App 23503 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 23503 output:     
+App 23503 output: application = get_wsgi_application()
+App 23503 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 23503 output:     
+App 23503 output: django.setup(set_prefix=False)
+App 23503 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 23503 output:     
+App 23503 output: apps.populate(settings.INSTALLED_APPS)
+App 23503 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 23503 output:     
+App 23503 output: app_config.import_models()
+App 23503 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 23503 output:     
+App 23503 output: self.models_module = import_module(models_module_name)
+App 23503 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 23503 output:     
+App 23503 output: __import__(name)
+App 23503 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 23503 output:     
+App 23503 output: from PIL import Image
+App 23503 output: ImportError
+App 23503 output: : 
+App 23503 output: No module named PIL
+App 23762 output: Traceback (most recent call last):
+App 23762 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 23762 output:     
+App 23762 output: app_module = load_app()
+App 23762 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 23762 output:     
+App 23762 output: return imp.load_source('passenger_wsgi', startup_file)
+App 23762 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 20, in <module>
+App 23762 output:     
+App 23762 output: from sqpub.wsgi import application
+App 23762 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 23762 output:     
+App 23762 output: application = get_wsgi_application()
+App 23762 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 23762 output:     
+App 23762 output: django.setup(set_prefix=False)
+App 23762 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 23762 output:     
+App 23762 output: apps.populate(settings.INSTALLED_APPS)
+App 23762 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 23762 output:     
+App 23762 output: app_config.import_models()
+App 23762 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 23762 output:     
+App 23762 output: self.models_module = import_module(models_module_name)
+App 23762 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 23762 output:     
+App 23762 output: __import__(name)
+App 23762 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 23762 output:     
+App 23762 output: from PIL import Image
+App 23762 output: ImportError
+App 23762 output: : 
+App 23762 output: No module named PIL
+App 26185 output: Traceback (most recent call last):
+App 26185 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 26185 output:     app_module = load_app()
+App 26185 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 26185 output:     
+App 26185 output: return imp.load_source('passenger_wsgi', startup_file)
+App 26185 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 26185 output:     from sqpub.wsgi import application
+App 26185 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 26185 output:     
+App 26185 output: application = get_wsgi_application()
+App 26185 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 26185 output:     django.setup(set_prefix=False)
+App 26185 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 26185 output:     apps.populate(settings.INSTALLED_APPS)
+App 26185 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 26185 output:     app_config.import_models()
+App 26185 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 26185 output:     self.models_module = import_module(models_module_name)
+App 26185 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 26185 output:     __import__(name)
+App 26185 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 26185 output:     from PIL import Image
+App 26185 output: ImportError: 
+App 26185 output: No module named PIL
+App 26387 output: Traceback (most recent call last):
+App 26387 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 26387 output:     app_module = load_app()
+App 26387 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 26387 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 26387 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 26387 output:     
+App 26387 output: from sqpub.wsgi import application
+App 26387 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 26387 output:     application = get_wsgi_application()
+App 26387 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 26387 output:     django.setup(set_prefix=False)
+App 26387 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 26387 output:     apps.populate(settings.INSTALLED_APPS)
+App 26387 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 26387 output:     app_config.import_models()
+App 26387 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 26387 output:     self.models_module = import_module(models_module_name)
+App 26387 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 26387 output:     __import__(name)
+App 26387 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 26387 output:     from PIL import Image
+App 26387 output: ImportError: 
+App 26387 output: No module named PIL
+App 27013 output: Traceback (most recent call last):
+App 27013 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 27013 output:     
+App 27013 output: app_module = load_app()
+App 27013 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 27013 output:     
+App 27013 output: return imp.load_source('passenger_wsgi', startup_file)
+App 27013 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 27013 output:     
+App 27013 output: from sqpub.wsgi import application
+App 27013 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 27013 output:     
+App 27013 output: application = get_wsgi_application()
+App 27013 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 27013 output:     
+App 27013 output: django.setup(set_prefix=False)
+App 27013 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 27013 output:     
+App 27013 output: apps.populate(settings.INSTALLED_APPS)
+App 27013 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 27013 output:     
+App 27013 output: app_config.import_models()
+App 27013 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 27013 output:     
+App 27013 output: self.models_module = import_module(models_module_name)
+App 27013 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 27013 output:     
+App 27013 output: __import__(name)
+App 27013 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 27013 output:     
+App 27013 output: from PIL import Image
+App 27013 output: ImportError
+App 27013 output: : 
+App 27013 output: No module named PIL
+App 27340 output: Traceback (most recent call last):
+App 27340 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 27340 output:     app_module = load_app()
+App 27340 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 27340 output:     
+App 27340 output: return imp.load_source('passenger_wsgi', startup_file)
+App 27340 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 27340 output:     from sqpub.wsgi import application
+App 27340 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 27340 output:     application = get_wsgi_application()
+App 27340 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 27340 output:     django.setup(set_prefix=False)
+App 27340 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 27340 output:     apps.populate(settings.INSTALLED_APPS)
+App 27340 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 27340 output:     app_config.import_models()
+App 27340 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 27340 output:     self.models_module = import_module(models_module_name)
+App 27340 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 27340 output:     __import__(name)
+App 27340 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 27340 output:     from PIL import Image
+App 27340 output: ImportError: 
+App 27340 output: No module named PIL
+App 377 output: Traceback (most recent call last):
+App 377 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 377 output:     
+App 377 output: app_module = load_app()
+App 377 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 377 output:     
+App 377 output: return imp.load_source('passenger_wsgi', startup_file)
+App 377 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 377 output:     
+App 377 output: from sqpub.wsgi import application
+App 377 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 377 output:     
+App 377 output: application = get_wsgi_application()
+App 377 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 377 output:     
+App 377 output: django.setup(set_prefix=False)
+App 377 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 377 output:     
+App 377 output: apps.populate(settings.INSTALLED_APPS)
+App 377 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 377 output:     
+App 377 output: app_config.import_models()
+App 377 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 377 output:     
+App 377 output: self.models_module = import_module(models_module_name)
+App 377 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 377 output:     
+App 377 output: __import__(name)
+App 377 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 377 output:     
+App 377 output: from PIL import Image
+App 377 output: ImportError
+App 377 output: : 
+App 377 output: No module named PIL
+App 504 output: Traceback (most recent call last):
+App 504 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 504 output:     
+App 504 output: app_module = load_app()
+App 504 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 504 output:     
+App 504 output: return imp.load_source('passenger_wsgi', startup_file)
+App 504 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 504 output:     
+App 504 output: from sqpub.wsgi import application
+App 504 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 504 output:     
+App 504 output: application = get_wsgi_application()
+App 504 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 504 output:     
+App 504 output: django.setup(set_prefix=False)
+App 504 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 504 output:     
+App 504 output: apps.populate(settings.INSTALLED_APPS)
+App 504 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 504 output:     
+App 504 output: app_config.import_models()
+App 504 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 504 output:     
+App 504 output: self.models_module = import_module(models_module_name)
+App 504 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 504 output:     
+App 504 output: __import__(name)
+App 504 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 504 output:     
+App 504 output: from PIL import Image
+App 504 output: ImportError
+App 504 output: : 
+App 504 output: No module named PIL
+App 1438 output: Traceback (most recent call last):
+App 1438 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 1438 output:     app_module = load_app()
+App 1438 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 1438 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 1438 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 1438 output:     from sqpub.wsgi import application
+App 1438 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 1438 output:     application = get_wsgi_application()
+App 1438 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 1438 output:     django.setup(set_prefix=False)
+App 1438 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 1438 output:     apps.populate(settings.INSTALLED_APPS)
+App 1438 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 1438 output:     
+App 1438 output: app_config.import_models()
+App 1438 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 1438 output:     self.models_module = import_module(models_module_name)
+App 1438 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 1438 output:     __import__(name)
+App 1438 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 1438 output:     from PIL import Image
+App 1438 output: ImportError: No module named PIL
+App 1578 output: Traceback (most recent call last):
+App 1578 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 1578 output:     app_module = load_app()
+App 1578 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 1578 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 1578 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 1578 output:     from sqpub.wsgi import application
+App 1578 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 1578 output:     application = get_wsgi_application()
+App 1578 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 1578 output:     django.setup(set_prefix=False)
+App 1578 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 1578 output:     
+App 1578 output: apps.populate(settings.INSTALLED_APPS)
+App 1578 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 1578 output:     app_config.import_models()
+App 1578 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 1578 output:     self.models_module = import_module(models_module_name)
+App 1578 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 1578 output:     __import__(name)
+App 1578 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 1578 output:     from PIL import Image
+App 1578 output: ImportError: 
+App 1578 output: No module named PIL
+App 1716 output: Traceback (most recent call last):
+App 1716 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 1716 output:     
+App 1716 output: app_module = load_app()
+App 1716 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 1716 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 1716 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 1716 output:     from sqpub.wsgi import application
+App 1716 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 1716 output:     application = get_wsgi_application()
+App 1716 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 1716 output:     django.setup(set_prefix=False)
+App 1716 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 1716 output:     apps.populate(settings.INSTALLED_APPS)
+App 1716 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 1716 output:     app_config.import_models()
+App 1716 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 1716 output:     self.models_module = import_module(models_module_name)
+App 1716 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 1716 output:     __import__(name)
+App 1716 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 1716 output:     from PIL import Image
+App 1716 output: ImportError: 
+App 1716 output: No module named PIL
+App 2146 output: Traceback (most recent call last):
+App 2146 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 2146 output:     
+App 2146 output: app_module = load_app()
+App 2146 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 2146 output:     
+App 2146 output: return imp.load_source('passenger_wsgi', startup_file)
+App 2146 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 2146 output:     
+App 2146 output: from sqpub.wsgi import application
+App 2146 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 2146 output:     
+App 2146 output: application = get_wsgi_application()
+App 2146 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 2146 output:     
+App 2146 output: django.setup(set_prefix=False)
+App 2146 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 2146 output:     
+App 2146 output: apps.populate(settings.INSTALLED_APPS)
+App 2146 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 2146 output:     
+App 2146 output: app_config.import_models()
+App 2146 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 2146 output:     
+App 2146 output: self.models_module = import_module(models_module_name)
+App 2146 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 2146 output:     
+App 2146 output: __import__(name)
+App 2146 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 2146 output:     
+App 2146 output: from PIL import Image
+App 2146 output: ImportError
+App 2146 output: : 
+App 2146 output: No module named PIL
+App 27128 output: Traceback (most recent call last):
+App 27128 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 369, in <module>
+App 27128 output:     app_module = load_app()
+App 27128 output:   File "/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py", line 76, in load_app
+App 27128 output:     return imp.load_source('passenger_wsgi', startup_file)
+App 27128 output:   File "/home/tqshoote/repositories/TQ-Shooter/passenger_wsgi.py", line 19, in <module>
+App 27128 output:     from sqpub.wsgi import application
+App 27128 output:   File "/home/tqshoote/repositories/TQ-Shooter/sqpub/wsgi.py", line 16, in <module>
+App 27128 output:     application = get_wsgi_application()
+App 27128 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/core/wsgi.py", line 13, in get_wsgi_application
+App 27128 output:     django.setup(set_prefix=False)
+App 27128 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/__init__.py", line 27, in setup
+App 27128 output:     apps.populate(settings.INSTALLED_APPS)
+App 27128 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/registry.py", line 108, in populate
+App 27128 output:     app_config.import_models()
+App 27128 output:   File "/home/tqshoote/virtualenv/repositories/TQ-Shooter/2.7/lib/python2.7/site-packages/django/apps/config.py", line 202, in import_models
+App 27128 output:     self.models_module = import_module(models_module_name)
+App 27128 output:   File "/opt/alt/python27/lib64/python2.7/importlib/__init__.py", line 37, in import_module
+App 27128 output:     __import__(name)
+App 27128 output:   File "/home/tqshoote/repositories/TQ-Shooter/eggcatch/models.py", line 13, in <module>
+App 27128 output:     from PIL import Image
+App 27128 output: ImportError: No module named PIL
